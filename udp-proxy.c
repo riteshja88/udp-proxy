@@ -1,6 +1,6 @@
 /* http://www.brokestream.com/udp_redirect.html
 
-  Build: gcc -o udp_redirect udp_redirect.c
+  Build: gcc -o udp_redirect upd-proxy.c
 
   udp_redirect.c
   Version 2013-05-30
